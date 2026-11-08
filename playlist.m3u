@@ -57,9 +57,6 @@ http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 http://127.0.0.1:6878/ace/getstream?id=49545d05f95846e93fd8f08da320be866995c550
 
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="acestream-scraper:3:DAZN%202%20HD", DAZN 2 --> ELCANO
-http://127.0.0.1:6878/ace/getstream?id=05830d69adbd2443d5abee9478db0d2bdab75321
-
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="acestream-scraper:3:DAZN%202%20HD", DAZN 2 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=daa81be3ce3b08c552a0817ef0363860733dfddf
 
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="acestream-scraper:3:DAZN%202%20HD", DAZN 2 --> SPORT TV
@@ -88,6 +85,9 @@ http://127.0.0.1:6878/ace/getstream?id=7f9857c45764ef2c7cdfb619b89db3056a57a51f
 
 #EXTINF:-1 group-title="DAZN LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" tvg-id="acestream-scraper:3:DAZN%20LaLiga%20HD", DAZN LaLiga 1080p ** (2)
 http://127.0.0.1:6878/ace/getstream?id=9c588ac92554746c489bc553773d959f6d2dfd8e
+
+#EXTINF:-1 group-title="DAZN LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" tvg-id="acestream-scraper:3:DAZN%20LaLiga%20HD", DAZN LaLiga 720 *
+http://127.0.0.1:6878/ace/getstream?id=eb4975702ceadca7ed74f8707e17a9f55569dbb9
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" tvg-id="acestream-scraper:3:Esport%203", Esport3 1080p *
 http://127.0.0.1:6878/ace/getstream?id=720111bc8ab44e425e24b93785f06ba3184ef3a4
@@ -257,6 +257,9 @@ http://127.0.0.1:6878/ace/getstream?id=3a03dc436b15f1d5d7b285c80b982da02502c26d
 #EXTINF:-1 group-title="LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" tvg-id="acestream-scraper:3:DAZN%20LaLiga%20HD", DAZN LA LIGA 1 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=e8dc3e7a1ee14566fc2d56a11037ee091e40f2e5
 
+#EXTINF:-1 group-title="LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" tvg-id="acestream-scraper:3:DAZN%20LaLiga%20HD", DAZN LA LIGA 1 FHD --> NEW ERA VI
+http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
+
 #EXTINF:-1 group-title="LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" tvg-id="acestream-scraper:3:DAZN%20LaLiga%202%20HD", DAZN LA LIGA 2 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=357e71223aad8bf80d3b86d31d9a0f75dd42d91e
 
@@ -274,6 +277,9 @@ http://127.0.0.1:6878/ace/getstream?id=4855b5c3263f207260e1c6cbd8c234df799cf7f2
 
 #EXTINF:-1 group-title="LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" tvg-id="acestream-scraper:3:M%2B%20LaLiga%20HD", M+ LALIGA --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=623f9ce3c4adfcd9771da41a6cc433632cf2c680
+
+#EXTINF:-1 group-title="LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" tvg-id="acestream-scraper:3:M%2B%20LaLiga%20HD", M+ LALIGA --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=2772b75c3bc7cfe214514a7745f63024620f3a29
 
 #EXTINF:-1 group-title="LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" tvg-id="acestream-scraper:3:M%2B%20LaLiga%20HD", M+ LALIGA --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=f9e9258cb14ede2f9369be4cba395ffe3e04e4fb
@@ -312,6 +318,9 @@ http://127.0.0.1:6878/ace/getstream?id=1c00e6a5404f84e9bd22aa9d8f09e96ffa4ab319
 http://127.0.0.1:6878/ace/getstream?id=69f76f6516620d91612e7509077b5ac3bb4d3c0b
 
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="acestream-scraper:3:M%2B%20Liga%20de%20Campeones%20HD", LIGA DE CAMPEONES --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=160e657985e1bb04ce216e8d180580f96df553bb
+
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="acestream-scraper:3:M%2B%20Liga%20de%20Campeones%20HD", LIGA DE CAMPEONES --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=edb4474bcc59cdf2dfdea86538c2bf3b22ec4a6c
 
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="acestream-scraper:3:M%2B%20Liga%20de%20Campeones%20HD", LIGA DE CAMPEONES --> SPORT TV
@@ -340,9 +349,6 @@ http://127.0.0.1:6878/ace/getstream?id=999f4cf3175f2a0dedb6ab6586c19aff13bf3792
 
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="acestream-scraper:3:M%2B%20Liga%20de%20Campeones%206", LIGA DE CAMPEONES 6 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=ae2e0818685c3ad1eeadb23b4c2e5e6080c9f987
-
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="acestream-scraper:3:M%2B%20Liga%20de%20Campeones%206", LIGA DE CAMPEONES 6 --> ELCANO
-http://127.0.0.1:6878/ace/getstream?id=89a9c7b426a272a94a0a4beb4106b3ab4054578c
 
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="acestream-scraper:3:M%2B%20Liga%20de%20Campeones%206", LIGA DE CAMPEONES 6 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=a0093cbd3a6d76d8fc4c94eca10bc5eae0316c59
@@ -457,9 +463,6 @@ http://127.0.0.1:6878/ace/getstream?id=cb389520f92a6ec25a14e9887103fb7463c0ced4
 
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" tvg-id="acestream-scraper:3:M%2B%20Deportes%206", M+ Deportes 6 1080p **
 http://127.0.0.1:6878/ace/getstream?id=432c450563e47b21e41540f19bff0f05d5adc59f
-
-#EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" tvg-id="acestream-scraper:3:M%2B%20Deportes%207", M+ Deportes 7 1080p *
-http://127.0.0.1:6878/ace/getstream?id=f7626fe1c26a7161ab25626482248fe06d5f08ee
 
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" tvg-id="acestream-scraper:3:M%2B%20Deportes%207", M+ Deportes 7 1080p **
 http://127.0.0.1:6878/ace/getstream?id=a255f1972d81d8e716a987b1e9b02a1905eb081c
