@@ -53,9 +53,6 @@ http://192.168.0.35:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210
 #EXTINF:-1 group-title="BeIN SPORTS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png" tvg-id="beIN SPORTS en español", beIN SPORTS 3 [BE]
 http://192.168.0.35:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="DAZN 1 HD", DAZN 1 --> SPORT TV
-http://192.168.0.35:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="DAZN 1 HD", DAZN 1 1080p *
 http://192.168.0.35:6878/ace/getstream?id=626f30abf7243049bbb9035218784265976d3108
 
@@ -158,9 +155,6 @@ http://192.168.0.35:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e
 #EXTINF:-1 group-title="ESPN SPORT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2", ESPN 2 [BE]
 http://192.168.0.35:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 
-#EXTINF:-1 group-title="ESPN SPORT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN", ESPN HD [US]
-http://192.168.0.35:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-
 #EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD", EUROSPORT 1 --> ELCANO
 http://192.168.0.35:6878/ace/getstream?id=e6f548fe85889b6f943f4e1dd072608ab0162aec
 
@@ -215,11 +209,11 @@ http://192.168.0.35:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804b
 #EXTINF:-1 group-title="FUTBOL INT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1", ELEVEN DAZN 1 --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 
+#EXTINF:-1 group-title="FUTBOL INT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1", ELEVEN DAZN 1 HD --> SPORT TV
+http://192.168.0.35:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+
 #EXTINF:-1 group-title="FUTBOL INT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="PT | DAZN 2", ELEVEN DAZN 2 --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-
-#EXTINF:-1 group-title="FUTBOL INT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3", ELEVEN DAZN 3 --> SPORT TV
-http://192.168.0.35:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 
 #EXTINF:-1 group-title="FUTBOL INT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5", ELEVEN DAZN 5 --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
@@ -229,9 +223,6 @@ http://192.168.0.35:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b5511868
 
 #EXTINF:-1 group-title="FUTBOL INT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN", ESPN [BE] --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-
-#EXTINF:-1 group-title="FUTBOL INT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2", ESPN2 [US] --> SPORT TV
-http://192.168.0.35:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 
 #EXTINF:-1 group-title="FUTBOL INT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png" tvg-id="beIN SPORTS en español", beIN SPORTS HD 1 (TR) --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
@@ -356,6 +347,9 @@ http://192.168.0.35:6878/ace/getstream?id=5e6173b43eae5c16e65c411bd6f2006e7dd774
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES --> ELCANO
 http://192.168.0.35:6878/ace/getstream?id=edb4474bcc59cdf2dfdea86538c2bf3b22ec4a6c
 
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES --> SPORT TV
+http://192.168.0.35:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD", LIGA DE CAMPEONES 2 --> ELCANO
 http://192.168.0.35:6878/ace/getstream?id=4ebfc0fec81001b9dd9127e7aa4d44af646caaae
 
@@ -364,9 +358,6 @@ http://192.168.0.35:6878/ace/getstream?id=48303d6f56613aca4765b0a8368ac4caa77667
 
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD", LIGA DE CAMPEONES 2 --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD", LIGA DE CAMPEONES 3 --> SPORT TV
-http://192.168.0.35:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4", LIGA DE CAMPEONES 4 --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
@@ -430,9 +421,6 @@ http://192.168.0.35:6878/ace/getstream?id=cba26e0373d5f9d8660842ca50a11558b4d71a
 
 #EXTINF:-1 group-title="MOTOR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" tvg-id="DE | Rally TV", RALLY TV --> ELCANO
 http://192.168.0.35:6878/ace/getstream?id=a5d139eb1c3dbad5e6421acd91fbcff48f3096c4
-
-#EXTINF:-1 group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" tvg-id="Movistar Plus HD", MOVISTAR PLUS FHD --> NEW ERA III
-http://192.168.0.35:6878/ace/getstream?id=fa931cbc87dc9d66fdd30a9644e054b403960056
 
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro", ONETORO FHD --> ELCANO
 http://192.168.0.35:6878/ace/getstream?id=761db2c22f9becefb18b8d9c9028a1e7c0167651
@@ -512,11 +500,11 @@ http://192.168.0.35:6878/ace/getstream?id=b20b467fae6af2983ee5163ebcb469eeca9146
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" tvg-id="M+ Deportes HD", MOVISTAR DEPORTES --> ELCANO
 http://192.168.0.35:6878/ace/getstream?id=3d44884484303f51879f93ddaff6e4c267df2e3e
 
-#EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" tvg-id="M+ Deportes HD", MOVISTAR DEPORTES --> NEW ERA III
-http://192.168.0.35:6878/ace/getstream?id=af393f93814d03160d48d2730759593b7bea5b47
-
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD", MOVISTAR DEPORTES 2 --> ELCANO
 http://192.168.0.35:6878/ace/getstream?id=87c7cb2150dbb779e2ac24d4c5762b430d4feb82
+
+#EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD", MOVISTAR DEPORTES 2 FHD --> NEW ERA
+http://192.168.0.35:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD", MOVISTAR DEPORTES 2 HD --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
@@ -535,6 +523,9 @@ http://192.168.0.35:6878/ace/getstream?id=635777c964ca403b9556055c10b34059d2e866
 
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" tvg-id="M+ Deportes 6", MOVISTAR DEPORTES 6 HD --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
+
+#EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" tvg-id="M+ Deportes HD", MOVISTAR DEPORTES FHD --> NEW ERA
+http://192.168.0.35:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
 
 #EXTINF:-1 group-title="MOVISTAR DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" tvg-id="M+ Golf HD", MOVISTAR GOLF HD --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
@@ -569,6 +560,9 @@ http://192.168.0.35:6878/ace/getstream?id=bf95e600e8f546948eb4f170079533b2a38954
 #EXTINF:-1 group-title="RFEF TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" tvg-id="Primera Federación", RFEF TV 1080p **
 http://192.168.0.35:6878/ace/getstream?id=36820e768af871a66048cd702f8f3988683f6242
 
+#EXTINF:-1 group-title="SKY SPORTS [UK]" tvg-id="Sky Sport F1 [1080]", Sky Sport F1 [1080]
+http://192.168.0.35:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+
 #EXTINF:-1 group-title="SKY SPORTS [UK]" tvg-logo="https://tv.assets.pressassociation.io/7562df2e-66f9-5f0e-9915-3668225921b6.png" tvg-id="UK | Sky Sports Football", Sky Sport Football (UK)
 http://192.168.0.35:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
@@ -587,14 +581,20 @@ http://192.168.0.35:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d
 #EXTINF:-1 group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FightSports.png" tvg-id="FightSports", FightBox HD (RU) --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
 
-#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD", M. Deportes HD (ES) --> SPORT TV
-http://192.168.0.35:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-
 #EXTINF:-1 group-title="SPORT TV" tvg-logo="https://images.tvtoday.de/sender/small/snhd.png" tvg-id="DE | Sky Sport News", Sky Sport News (DE) --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
 
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png" tvg-id="beIN SPORTS en español", beIN SPORTS HABER (TR) --> SPORT TV
+http://192.168.0.35:6878/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3
+
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png" tvg-id="beIN SPORTS en español", beIN SPORTS HD 2 (TR) --> SPORT TV
+http://192.168.0.35:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
+
 #EXTINF:-1 group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png" tvg-id="beIN SPORTS en español", beIN SPORTS HD 3 (TR) --> SPORT TV
 http://192.168.0.35:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png" tvg-id="beIN SPORTS en español", beIN SPORTS HD 4 (TR) --> SPORT TV
+http://192.168.0.35:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 
 #EXTINF:-1 group-title="TDT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" tvg-id="Cuatro HD", CUATRO --> ELCANO
 http://192.168.0.35:6878/ace/getstream?id=9083f6411d8c6f41546d01f8fbeefb812e8ae1a9
